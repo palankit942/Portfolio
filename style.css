@@ -590,6 +590,13 @@ footer span a:hover{
     .services .serv-content .card{
         width: 100%;
     }
+    .serv-content{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        row-gap: 1rem;
+    }
 }
 
 @media (max-width: 500px) {

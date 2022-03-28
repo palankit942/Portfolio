@@ -597,6 +597,9 @@ footer span a:hover{
         justify-content: center;
         row-gap: 1rem;
     }
+    .card{
+        width: 90%;
+    }
 }
 
 @media (max-width: 500px) {
